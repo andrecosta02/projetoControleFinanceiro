@@ -18,6 +18,7 @@ const Form = ({ handleAdd, transactionsList, setTransactionsList }) => {
       return;
     }
 
+    
     const transaction = {
       id: generateID(),
       desc: desc,
