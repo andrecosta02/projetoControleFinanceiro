@@ -39,7 +39,7 @@ export const RadioGroup = styled.div`
   input {
     margin-left: 20px;
     margin-right: 5px;
-    accent-color: #f2f2f2;
+    accent-color: teal;
     margin-top: 0;
   }
 `;
